@@ -1,0 +1,17 @@
+com.zhujunwei.spring.demo1
+	UserDao.java
+	UserDaoImp.java
+	UserService.java
+	UserServiceImp.java
+	SpringDemo.java IOC注解开发
+	
+com.zhujunwei.spring.demo2
+	CustomerService.java
+	SpringDemo2.java Bean的作用域scop
+	
+com.zhujunwei.spring.demo3
+	OrderDao.java
+	ProductDao.java
+	ProductService.java
+	SprinDemo3.java IOC的XML和注解整合开发
+	
